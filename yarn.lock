@@ -9880,10 +9880,10 @@ nested-error-stacks@^2.0.0, nested-error-stacks@^2.1.0:
   resolved "https://registry.yarnpkg.com/nested-error-stacks/-/nested-error-stacks-2.1.0.tgz#0fbdcf3e13fe4994781280524f8b96b0cdff9c61"
   integrity sha512-AO81vsIO1k1sM4Zrd6Hu7regmJN1NSiAja10gc4bX3F0wd+9rQmcuHQaHVQCYIEC8iFXnE+mavh23GOt7wBgug==
 
-next-firebase-auth@^0.13.1-alpha.1:
-  version "0.13.1-alpha.1"
-  resolved "https://registry.yarnpkg.com/next-firebase-auth/-/next-firebase-auth-0.13.1-alpha.1.tgz#5e71858f9b7415eab59572d6117cb33496150d6d"
-  integrity sha512-Em2UFp1/jOJQbeBjS9oAyt0rA7l0mIDvuV9dq5iIAKoEXi9zXhyzEC7/youbzYjZfv9LC5Rp50FffppL3qv+Cw==
+next-firebase-auth@^0.13.1-alpha.2:
+  version "0.13.1-alpha.2"
+  resolved "https://registry.yarnpkg.com/next-firebase-auth/-/next-firebase-auth-0.13.1-alpha.2.tgz#24299ad32261761cc1b45e7dd014da2123a290e5"
+  integrity sha512-thvgD3wtIbHTcojMoj6cEX7nychiqwazGlOsRJlz1KbJfMFsQf2be57M55XxDftHdhwXR3rCNJJxfCitDKg1HA==
   dependencies:
     cookies "^0.8.0"
 
